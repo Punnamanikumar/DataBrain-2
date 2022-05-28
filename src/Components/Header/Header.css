@@ -1,0 +1,98 @@
+body {
+  zoom: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ht11 {
+  display: inline-block;
+}
+.ht12 {
+  font-weight: 1000;
+  padding-left: 1%;
+}
+.h1 {
+  margin-left: 8%;
+  font-size: 3rem;
+}
+.flex1 {
+  display: flex;
+  margin-top: 2%;
+  font-weight: 500;
+  font-size: 2rem;
+}
+.menu {
+  cursor: pointer;
+  position: absolute;
+  top: 1rem;
+  right: 10px;
+  display: none;
+}
+.menu i {
+  font-size: 2rem;
+}
+
+#check {
+  display: none;
+}
+.nav-item {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 1rem auto;
+}
+.flex div {
+  margin-top: 10px;
+}
+.nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+  font-size: 1.4rem;
+}
+.search {
+  position: relative;
+  top: -25px;
+  height: 40px;
+  zoom: 70%;
+}
+.carticon {
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  zoom: 150%;
+  margin-top: -5px;
+  position: fixed;
+  top: 2px;
+  right: 2px;
+}
+.searchIcon {
+  position: absolute;
+  right: 115px;
+  top: 5px;
+  z-index: 1;
+}
+input {
+  margin-top: 25px;
+  height: 50px;
+  width: 240px;
+  border-radius: 15px;
+  font-size: larger;
+  padding-left: 15px;
+}
+.header {
+  position: sticky;
+  top: 0px;
+  background-color: white;
+  margin-top: -15px;
+  z-index: 2;
+}
+.itemNunm {
+  position: absolute;
+  top: 8px;
+  right: 5px;
+  border-radius: 50%;
+  height: 15px;
+  width: 15px;
+  color: red;
+}
+.searchdata {
+  display: none;
+}

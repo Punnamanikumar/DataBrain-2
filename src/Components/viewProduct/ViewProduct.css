@@ -1,0 +1,120 @@
+.viewProduct {
+  margin: 2% 0% 0% -40%;
+  overflow: hidden;
+  height: 80vh;
+}
+.vpi img {
+  width: 350px;
+  box-shadow: 10px 5px 5px grey;
+  cursor: pointer;
+  margin-right: 3%;
+  height: 480px;
+  border-radius: 15px;
+}
+.vpi img:hover {
+  zoom: 101%;
+}
+.vpb {
+  position: absolute;
+  text-align: justify;
+  left: 48%;
+  top: 16%;
+  font-size: 25px;
+}
+.vpn {
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+.vpp {
+  padding-top: 10px;
+}
+.vpc {
+  padding-top: 10px;
+}
+.vpd {
+  color: gray;
+  zoom: 80%;
+}
+.hr1 {
+  width: 115%;
+}
+.ssize {
+  position: absolute;
+  left: 728px;
+  top: 290px;
+  font-size: larger;
+}
+.s {
+  position: absolute;
+  border-radius: 50%;
+  border: 2px solid grey;
+  margin-top: -500px;
+  height: 50px;
+  width: 50px;
+  left: -225px;
+}
+.s:hover {
+  border: 2px solid rgb(197, 81, 100);
+}
+.flexsize {
+  display: flex;
+  margin-top: 250px;
+}
+
+.s1 {
+  margin-left: 950px;
+}
+.s2 {
+  margin-left: 1020px;
+}
+.s3 {
+  margin-left: 1090px;
+}
+.s4 {
+  margin-left: 1160px;
+}
+.s5 {
+  margin-left: 1230px;
+}
+.ins {
+  position: absolute;
+  left: 15px;
+  top: 15px;
+  cursor: pointer;
+}
+.bag {
+  position: absolute;
+  left: 1020px;
+  top: 450px;
+}
+.removeitem:hover {
+  opacity: 90%;
+}
+.removeitem {
+  color: rgba(233, 229, 229, 0.925);
+  margin-left: -270px;
+  width: 200px;
+  height: 50px;
+  background-color: #ff3e6c;
+  border: none;
+  border-radius: 6px;
+  zoom: 1.1;
+  cursor: pointer;
+}
+.additem {
+  margin-left: 50px;
+  width: 200px;
+  height: 50px;
+  zoom: 1.1;
+  background-color: #ff3e6c;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  color: rgba(233, 229, 229, 0.925);
+}
+.additem:hover {
+  opacity: 90%;
+}
+.fa-shopping-bag {
+  padding-right: 10px;
+}

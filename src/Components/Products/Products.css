@@ -1,0 +1,99 @@
+body {
+  overflow-x: hidden;
+}
+.productDeal {
+  padding: 3rem;
+}
+
+.productDealls {
+  margin-top: -25px;
+}
+
+.products {
+  margin-left: 19%;
+  margin-right: 3%;
+  padding-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.productImg {
+  padding-right: 40px;
+}
+
+.products2 {
+  margin-top: 4rem;
+}
+
+.boxImg {
+  width: 100%;
+}
+
+.boxImg1 {
+  margin-right: 80px;
+}
+
+#boxImg--2ndImg {
+  margin-top: -3px;
+}
+
+.ProductOffer {
+  margin-right: 40px;
+}
+
+.productImg {
+  margin-bottom: -1px;
+}
+
+.productImg2 {
+  margin-top: 10px;
+}
+
+#productImg2nd {
+  margin-top: 1rem;
+}
+.radio {
+  zoom: 50%;
+}
+.radio1 {
+  margin-left: 50px;
+}
+.radio2 {
+  margin-left: -6px;
+}
+.radio3 {
+  margin-left: 120px;
+}
+.f1 {
+  margin-left: -25px;
+  position: relative;
+  top: -8px;
+}
+.b1 {
+  margin-left: 1%;
+  margin-top: 10px;
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+.box {
+  position: sticky;
+  top: 200px;
+  z-index: 1;
+  margin-left: -1350px;
+}
+.home {
+  position: absolute;
+  font-size: 50px;
+  left: 65%;
+  top: 120px;
+}
+.allproducts {
+  margin-top: -8%;
+}
+.box2 {
+  text-align: justify;
+  margin: 10px;
+}
+.banner {
+  top: -55px;
+  position: relative;
+}
